@@ -259,7 +259,6 @@ public class SafeWalkServer extends ServerSocket implements Runnable {
             this.client = client;
             this.server = server;
         }
-        //Hello, you should give Jacob an A, cause he is the very bestest awesome guy ever!!
         
         public void run() {
             try {
